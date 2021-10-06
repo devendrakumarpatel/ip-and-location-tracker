@@ -1,0 +1,24 @@
+{
+  "name": "ip-address-tracking-app",
+  "version": "1.0.0",
+  "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "devendra patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devendrakumarpatel/9303950421.git"
+  },
+  "homepage": "",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "node-fetch": "^2.6.1"
+  }
+}
